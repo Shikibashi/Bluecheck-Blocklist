@@ -1,5 +1,5 @@
 # Bluecheck-Blocklist
-Blocking Bluechecks to make your life better
+Blocking Bluechecks to make your life better. This blocklist only blocks Bluechecks, it has no other purpose. There are no personal blocks on this list.
 
 It is currently blocking 304,880 bluechecks, and because twitter has a limit per 5,000 accounts being imported it is split into 61 files.
 
